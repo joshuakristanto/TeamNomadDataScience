@@ -1,5 +1,5 @@
 # Team Nomad Data Science
-##Members
+## Members
 * Albert Eng
 * Jose De La Rosa
 * Joshua Kristanto
