@@ -14,7 +14,7 @@
 
 
 # Kaggle Score 
-* 0.76555
+* ![Kaggle Score](KScore.png)
 
 # NSF support for the Data Science Program with Career Support and Connections to Industry Program, Award #1842386
 * ![NSF](NSF.png)
