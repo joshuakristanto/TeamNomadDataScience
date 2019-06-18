@@ -10,7 +10,7 @@
 
 # Correlation Test
 * After one-hot on Sex and dropping Names, Cabin, Embarked, Ticket, PassengerId, PClass, Parch
-*[Heatmap](Heatmap.png)
+* ![Heatmap](Heatmap.png)
 
 
 # Kaggle Score 
