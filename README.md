@@ -14,12 +14,16 @@
 * ![Heatmap](Heatmap.png)
 
 ## Surival Rate by Fare
-* ![Survival Rate by Fare] (Screen Shot 2019-06-19 at 1.35.44 PM.png)
+* ![Survival Rate by Fare](SurvivalRateByFare.png)
 
 ## Survival Rate by SibSP
-* ![Survival Rate by SibSP] (Screen Shot 2019-06-19 at 11.51.40 AM.png)
+* ![Survival Rate by SibSP](SurvivalRateBySibSP.png)
 
+## Survival Rate by Pclass
+* ![Survival Rate by SibSP](SurvivalRateByPclass.png)
 
+## Survival Rate by Age
+* ![Survival Rate by SibSP](SurvivalRateByAge.png)
 
 # Kaggle Score 
 * ![Kaggle Score](KScore.png)
